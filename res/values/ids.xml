@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="view_height" />
+    <item type="id" name="view_width" />
+
+
+    <item type="id" name="ids_adapter_on_adapter_click_listener" />
+
+    <!-- adapter getView中设置listener tag的key -->
+    <item type="id" name="ab__id_adapter_group_position" />
+    <item type="id" name="ab__id_adapter_child_position" />
+    <item type="id" name="ab__id_adapter_item_position" />
+
+    <item type="id" name="ab__id_adapter_item_type_render" />
+
+</resources>
